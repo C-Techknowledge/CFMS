@@ -35,5 +35,6 @@ CFMS replaces traditional **paper-based systems**, ensuring **accuracy, security
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/CFMS.git
+git clone https://github.com/C-Techknowledge/CFMS.git
 cd CFMS
+
